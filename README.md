@@ -11,7 +11,7 @@ I am a Computer Science student passionate about Software Engineering, Machine L
 - **Languages:** C, C++, Python, Java
 - **AI / ML:** TensorFlow, PyTorch, BERT, RoBERTa, CNNs
 - **Tools & DevOps:** Git, Docker, Linux
-- 
+
 ## 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/david-deonise-b5544637a](https://linkedin.com/in/david-deonise-b5544637a)
 - **Email:** daviddeonise09@gmail.com
